@@ -1,14 +1,18 @@
 
 <h1 align="center"><img src="https://github.com/osonesu/osonesu/blob/main/1634888339170.png" style="border-radius:5;" width="45px" alt=""><br></h1>
 <p align="center">
+------
+
+###  
 <img align="center" height="auto" src="https://github.com/osonesu/osonesu/blob/main/osonesu.jpg"/>
 
 <h1 align="center">
 Widya Karya Krisna Bumi
 </h1>
+
 ------
 
-### 
+###   
 <h4 align="center">
 Visi
 </h4>
