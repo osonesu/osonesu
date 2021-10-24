@@ -6,6 +6,9 @@
 <h1 align="center">
 Widya Karya Krisna Bumi
 </h1>
+------
+
+### 
 <h4 align="center">
 Visi
 </h4>
@@ -13,6 +16,9 @@ Visi
 Terwujudnya SMP Negeri 1 Susut yang religius, integratif, aktif bergerak dalam hal positif, dan adaptif.
 </p>
 
+------
+
+### 
 <h4 align="center">
 Misi #1
 </h4>
