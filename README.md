@@ -6,8 +6,6 @@
 <h1 align="center">
 Widya Karya Krisna Bumi
 </h1>
-------
-
 ### 
 <h4 align="center">
 Visi
