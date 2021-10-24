@@ -1,6 +1,5 @@
-<h1 align="center">Hiiii! <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
-<p align="center">
-<a href="https://youtube.com/c/YuzzuKamiyaka"><img align="center" height="auto" src="https://github.com/YuzzuKamiyaka/image/blob/main/442757cb859d28f896389b76fff1d758.gif"/></a>
+
+<a href="https://youtube.com/c/YuzzuKamiyaka"><img align="center" height="auto" src="https://avatars.githubusercontent.com/u/93090124?v=4"/></a>
 
 <p align="center">
 
@@ -36,4 +35,4 @@
 
 ![github card](https://github-readme-stats.vercel.app/api?username=osonesu&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osonesutheme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osonesu&theme=monokai)
