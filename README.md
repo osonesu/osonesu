@@ -7,7 +7,25 @@ Widya Karya Krisna Bumi
 <h4 align="center">
 Visi
 </h4>
-Terwujudnya SMP Negeri 1 Susut yang religius, integratif, aktif bergerak dalam hal positif, dan adaptif
+<p align="center">
+Terwujudnya SMP Negeri 1 Susut yang religius, integratif, aktif bergerak dalam hal positif, dan adaptif.
+</p>
+
+<h4 align="center">
+Misi #1
+</h4>
+<p align="center">
+Menjadikan sikap religius sebagai pondasi warga tiga dalam berkeyakinan, berucap, bertindak dan membentuk karakter melalui optimalisasi penurunan nilai program kerja OSIS, membentuk pengurus OSIS yang kompeten dan progresif.
+</p>
+
+<h4 align="center">
+Misi #2
+</h4>
+<p align="center">
+Meningkatkan prestasi SMP Negeri 1 Susut melalui keaktifan, pengembangan ekstrakurikuler, membentuk warga tiga yang adaptif terhadap kondisi dan teknologi.
+</p>
+
+
 
 ------
 
