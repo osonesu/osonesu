@@ -4,7 +4,10 @@
 <p align="center">
 Widya Karya Krisna Bumi
 </p>
-
+<h4 align="center">
+Visi
+</h4>
+Terwujudnya SMP Negeri 1 Susut yang religius, integratif, aktif bergerak dalam hal positif, dan adaptif
 
 ------
 
