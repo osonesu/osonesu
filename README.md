@@ -1,9 +1,9 @@
 
 <a href="https://youtube.com/c/YuzzuKamiyaka"><img align="center" height="auto" src="https://avatars.githubusercontent.com/u/93090124?v=4"/></a>
 
-<p align="center">
+<h1 align="center">
 Widya Karya Krisna Bumi
-</p>
+</h1>
 <h4 align="center">
 Visi
 </h4>
