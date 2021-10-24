@@ -1,5 +1,5 @@
 
-<h1 align="center">Hiiii! <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszJDAYfsLZn-B8dujJwy7D_cMwglcMHAtIw&usqp=CAU" style="border-radius:5;" width="45px" alt=""><br></h1>
+<h1 align="center">Hiiii! <img src="https://github.com/osonesu/osonesu/blob/main/1634888339170.png" style="border-radius:5;" width="45px" alt=""><br></h1>
 <p align="center">
 <a href="https://youtube.com/c/YuzzuKamiyaka"><img align="center" height="auto" src="https://avatars.githubusercontent.com/u/93090124?v=4"/></a>
 
