@@ -2,11 +2,8 @@
 <a href="https://youtube.com/c/YuzzuKamiyaka"><img align="center" height="auto" src="https://avatars.githubusercontent.com/u/93090124?v=4"/></a>
 
 <p align="center">
-
-- Hy Im Yuzzu Kamiyaka
-- I am 16 years old
-- I live in Indonesian
-- Thank you and follow me
+Widya Karya Krisna Bumi
+</p>
 
 
 ------
